@@ -54,6 +54,10 @@ The target is `log(posted_rate / distance)`, so the model learns what each mile 
 
 The December rows only include lane, distance, equipment, weight and date. Coordinates come from the city lookup. `market_index`, the one date-driven input, is that day's median across the validation loads, which cover all of December. The resulting curve ($781–$798) follows the weekly market cycle. Real Lexington → Fort Wayne Dry Van loads in January went for $758–$808.
 
+## Project walkthrough
+
+[Watch the Loom video](https://www.loom.com/share/7f79caf7a1a748e5aded3ffde3b96043).
+
 ## Layout
 
 ```
